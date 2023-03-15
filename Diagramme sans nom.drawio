@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T17:41:33.363Z" agent="5.0 (Windows)" etag="D3K94mhImIHI5ixri8IH" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T17:42:57.635Z" agent="5.0 (Windows)" etag="R_8detbyL9N1x6uvcNOu" version="21.0.6" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="712" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -85,6 +85,9 @@
             <mxPoint x="1020" y="310" as="sourcePoint" />
             <mxPoint x="1110" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R8LEIBekAV26BUvvYrCN-7" value="Serveur OCS GLPI&lt;br&gt;10.0.0.249/24" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=right;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="700" y="311.25" width="32.2" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
